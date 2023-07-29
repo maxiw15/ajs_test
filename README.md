@@ -1,1 +1,2 @@
 # ajs_test
+w
